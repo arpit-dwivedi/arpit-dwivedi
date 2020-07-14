@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 - 😄 ***Pronouns:*** You can give one.
 
-- ⚡ ***Fun fact:*** I can not work without music. 
+- ⚡ ***Fun fact:*** I can work without music. 
