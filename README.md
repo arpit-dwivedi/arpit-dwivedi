@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about OpenCV, Tensorflow, chatbots or ML.
 
-- 📫 ***How to reach me***: My [portfolio link](http://arpit-dwivedi.me/) or contact me directly on this mail [8arpitdwivedi798@gmail.com](8arpitdwivedi798@gmail.com).
+- 📫 ***How to reach me***: My [portfolio link](http://arpit-dwivedi.me/) or contact me directly on this mail [8arpitdwivedi798@gmail.com](mailto:8arpitdwivedi798@gmail.com).
 
 - 😄 ***Pronouns:*** You can give one.
 
