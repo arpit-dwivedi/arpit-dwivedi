@@ -1,6 +1,4 @@
-# Arpit Dwivedi
-[![Linkedin Badge](https://img.shields.io/badge/-Arpit%Dwivedi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=dwivedi-arpit&trk=public_profile_top-card-primary-button-join-to-connect)]
-[![badge](https://img.shields.io/github/followers/arpit-dwivedi?label=follow&style=social)](https://github.com/login?return_to=%2Farpit-dwivedi)
+
 ### Hi there 👋
 
 I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I'm no stranger to hard work and my strength is I am flexible with work hours and time bound. I am always curious to learn something new.
