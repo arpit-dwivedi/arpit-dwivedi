@@ -1,5 +1,5 @@
 # Arpit Dwivedi
-
+[![Linkedin Badge](https://img.shields.io/badge/-Arpit%Dwivedi-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/signup/public-profile-join?vieweeVanityName=dwivedi-arpit&trk=public_profile_top-card-primary-button-join-to-connect)]
 [![badge](https://img.shields.io/github/followers/arpit-dwivedi?label=follow&style=social)](https://github.com/login?return_to=%2Farpit-dwivedi)
 ### Hi there 👋
 
