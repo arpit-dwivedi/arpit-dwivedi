@@ -1,4 +1,4 @@
-[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)
+[![linkedin](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/Webp.net-resizeimage.png)](https://www.linkedin.com/in/dwivedi-arpit/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](https://github.com/arpit-dwivedi/arpit-dwivedi.github.io/blob/master/assets/img/ttt.png)](https://twitter.com/sdwivediarpit)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![twitter](/kaggle.png)](https://www.kaggle.com/arpitdw)
 
 ### Hi there 👋
 
