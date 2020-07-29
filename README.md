@@ -24,11 +24,4 @@ I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer visio
 
 - ⚡ ***Fun fact:*** I can work without music. 
 
----
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arpit-dwivedi&theme=dark&show_icons=true) 
----
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpit-dwivedi&theme=dark)
----
 
