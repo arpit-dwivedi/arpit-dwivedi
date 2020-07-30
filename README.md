@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I'm no stranger to hard work and my strength is I am flexible with work hours and time bound. I am always curious to learn something new.
+I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer vision. I also have basic knowledge of Tableau and Docker. I am always curious to learn something new.
 
 
 
