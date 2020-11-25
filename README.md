@@ -25,3 +25,4 @@ I am Arpit Dwivedi. My main interest lies in Machine Learning and Computer visio
 - ⚡ ***Fun fact:*** I can work without music. 
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=arpit-dwivedi&label=Views&color=blue&style=plastic" alt="Profile Views" /> </p>
